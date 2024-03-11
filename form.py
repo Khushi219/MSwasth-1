@@ -5,11 +5,11 @@ import datetime
 import urllib.parse
 
 # Escape username and password
-username = urllib.parse.quote_plus("tanay")
-password = urllib.parse.quote_plus("Tanay@123")
+username = urllib.parse.quote_plus("khushi")
+password = urllib.parse.quote_plus("khushi2109")
 
 # Construct the MongoDB connection string
-connection_string ="mongodb+srv://tanay:Tanay%40123@tanay.drqdft7.mongodb.net/"
+connection_string ="mongodb+srv://khushi:khushi2109@cluster1.kajywqv.mongodb.net/"
 
 
 def main():
